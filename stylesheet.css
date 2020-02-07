@@ -180,6 +180,7 @@ header {
   color: #5f5d60;
   letter-spacing: 1px;
   margin-bottom: 40px;
+opacity:0.8;
 }
 
 #signup-form input {
@@ -188,7 +189,7 @@ header {
   font-size: 12px;
   padding: 12px 12px;
   border: 1px solid #d0d5d8;
-  border-radius: 5px;
+  border-radius: 40%;
 }
 
 #submit-btn {
@@ -203,7 +204,7 @@ header {
 }
 
 .lesson-wrapper {
-  padding-bottom: 80px;
+  padding-bottom: 100px;
   padding-left: 5%;
   padding-right: 5%;
   background-color: #f7f7f7;
@@ -223,6 +224,7 @@ header {
 .lesson {
   float: left;
   width: 25%;
+height:5%;
 }
 
 .lesson-icon {
